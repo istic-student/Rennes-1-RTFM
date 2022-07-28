@@ -1,22 +1,31 @@
-Welcome to Lumache's documentation!
-===================================
+Bienvenue sur le site d'information **Rennes 1 RTFM** !
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ce site à pour vocation de répondre aux questions que les nouveaux étudiants à l'**Université Rennes 1**
+peuvent se poser ainsi que d'apporter des informations complémentaires sur l'**ISTIC** et l'**Université de Rennes 1**.
 
 .. note::
 
-   This project is under active development.
+   Vous pouvez librement contribué à ce site par le biais de pull request sur le Github du [projet](https://github.com/istic-student/ISTIC-RTFM).
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   glossaire
+   ressources
+
+.. toctree::
+   :caption: F.A.Q.
+
+   faq/universite
+   faq/istic
+   faq/sante
+   faq/situations_particulieres
+
+.. toctree::
+   :caption: L'Université
+
+   universite/organisation
+   universite/services
