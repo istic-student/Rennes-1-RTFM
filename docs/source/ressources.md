@@ -1,6 +1,6 @@
 # Ressources complémentaires
 
-:E.N.T.: Espace numérique personnel, pour consulter son emploi du temps, ses mails... - https://ent.univ-rennes1.fr/f/welcome/normal/render.uP
+:E.N.T.: Espace numérique personnel, pour consulter son emploi du temps, ses mails... - https://ent.univ-rennes1.fr/
 
 :Portail Étudiant: Portail destiné aux étudiants avec des informations provenant directement de l'Université - https://etudiant.univ-rennes1.fr/
 

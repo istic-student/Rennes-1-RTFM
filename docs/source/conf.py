@@ -26,6 +26,7 @@ myst_enable_extensions = [
     "dollarmath",
     "fieldlist",
     "html_admonition",
+    "linkify",
     "html_image",
     "replacements",
     "smartquotes",
