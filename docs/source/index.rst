@@ -6,7 +6,7 @@ peuvent se poser ainsi que d'apporter des informations complémentaires sur l'**
 
 .. note::
 
-   Vous pouvez librement contribuér à ce site par le biais de pull request sur le Github du [projet](https://github.com/istic-student/ISTIC-RTFM).
+   Vous pouvez librement contribuér à ce site par le biais de pull request sur le Github du [projet](https://github.com/istic-student/Rennes-1-RTFM).
 
 Contenu
 --------
