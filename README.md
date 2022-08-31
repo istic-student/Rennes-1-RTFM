@@ -1,6 +1,6 @@
 # Pour contribuer
 
-Lien du site :
+Lien du site : 
 
 ## Prérequis
 
@@ -10,7 +10,7 @@ Installé sur la machine :
 
 ## Installer le projet
 
-```sh
+```bash
 git clone https://github.com/istic-student/Rennes-1-RTFM
 pip install sphinx
 cd Rennes-1-RTFM/docs
@@ -24,9 +24,14 @@ Pour ajouter au menu de gauche, veuillez modifier le fichier `index.rst`.
 
 ## Build le projet en local
 
+```bash
+make build
 ```
-cd docs
-make html
+
+## Clean le projet en local
+
+```bash
+make clean
 ```
 
 ## Publier sur le site

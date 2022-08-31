@@ -1,3 +1,4 @@
+
 # Minimal makefile for Sphinx documentation
 #
 
@@ -7,6 +8,17 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
 BUILDDIR      = build
+
+
+.PHONY: build
+build: requirements
+	$(SPHINXBUILD) -b html $(SPHINXOPTS) $(SOURCEDIR) $(BUILDDIR)
+
+clean:
+	rm -rf $(BUILDDIR)
+
+requirements:
+	pip install -r requirements.txt
 
 # Put it first so that "make" without argument is like "make help".
 help:
