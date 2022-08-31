@@ -54,7 +54,7 @@ L'Université utilise beaucoup d'acronymes, cette page est faite pour en récapi
   
   <div align=justify>
   
-  **P**ôle **V**ie **E**tudiante. Pôle en charge de faciliter l'intégration des étudiant·e·s, de développer la vie étudiante ainsi que d'accompagner les étudiant·e·s handicapé·e·s. Plus d'informations [ici](./universite/organisation.md).
+  **P**ôle **V**ie **E**tudiante. Pôle en charge de faciliter l'intégration des étudiant·e·s, de développer la vie étudiante ainsi que d'accompagner les étudiant·e·s handicapé·e·s. Plus d'informations [ici](universite/organisation.md).
 
   </div>
 
@@ -70,7 +70,7 @@ L'Université utilise beaucoup d'acronymes, cette page est faite pour en récapi
   
   <div align=justify>
   
-  **S**ervice **I**nter**U**niversitaire des **A**ctivités **P**hysiques et **S**portives. Service proposant différents sports aux étudiants. Plus d'informations [ici](./universite/services.md#siuaps).
+  **S**ervice **I**nter**U**niversitaire des **A**ctivités **P**hysiques et **S**portives. Service proposant différents sports aux étudiants. Plus d'informations [ici](universite/services.md#siuaps).
 
   </div>
 
@@ -78,7 +78,7 @@ L'Université utilise beaucoup d'acronymes, cette page est faite pour en récapi
   
   <div align=justify>
   
-  **S**ervice **O**rientation **I**nsertion **E**ntrepreneuriat. Service de l'Université dédié à l'orientation des étudiant·e·. Plus d'informations [ici](./universite/services.md#soie).
+  **S**ervice **O**rientation **I**nsertion **E**ntrepreneuriat. Service de l'Université dédié à l'orientation des étudiant·e·. Plus d'informations [ici](universite/services.md#soie).
 
   </div>
 
@@ -86,7 +86,7 @@ L'Université utilise beaucoup d'acronymes, cette page est faite pour en récapi
   
   <div align=justify>
 
-  **S**ervice **S**anté des **E**tudiant·e·s. Service universitaire dédié à la santé. Plus d'informations [ici](./universite/services.md#sse).
+  **S**ervice **S**anté des **E**tudiant·e·s. Service universitaire dédié à la santé. Plus d'informations [ici](universite/services.md#sse).
 
   </div>
 
@@ -134,6 +134,6 @@ L'Université utilise beaucoup d'acronymes, cette page est faite pour en récapi
   
   <div align=justify>
   
-  **V**alorisation de l'**E**ngagement **E**tudiant. Plus d'informations [ici](./faq/situations_particulieres.md#comment-faire-valider-son-engagement-).
+  **V**alorisation de l'**E**ngagement **E**tudiant. Plus d'informations [ici](faq/situations_particulieres.md#comment-faire-valider-son-engagement-).
 
   </div>
